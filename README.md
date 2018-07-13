@@ -1,3 +1,3 @@
-# rotten_potatoes
 # rotten-potatoes
-# rottenpotatoes
+ 
+A clone of rotten-potatoes that I made to practice front-end web-dev and MEAN stack.
